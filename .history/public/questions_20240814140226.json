@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"question": "Security professionals are tasked with the protection of persons, property, and",
+		"correct": "Information",
+		"options": [
+			"Government buildings",
+			"Employee belongings",
+			"Information",
+			"Military locations"
+		]
+	},
+	{
+		"id": 2,
+		"question": "Individuals holding an individual security licence in the province of Alberta may not refer to themselves as: ",
+		"correct": "Peace officers",
+		"options": [
+			"Security professionals",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"question": " Professionalism is best demonstrated by: ",
+		"correct": "Peace officers",
+		"options": [
+			"Your conduct and deportment",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	}
+]

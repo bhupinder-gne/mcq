@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Question from './questions';
+import Question from './Question';
 
 const App = () => {
 	const [questions, setQuestions] = useState([]);

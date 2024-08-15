@@ -1,0 +1,530 @@
+[
+	{
+		"id": 1,
+		"question": "Security professionals are tasked with the protection of persons, property, and",
+		"correct": "Information",
+		"options": [
+			"Government buildings",
+			"Employee belongings",
+			"Information",
+			"Military locations"
+		]
+	},
+	{
+		"id": 2,
+		"question": "Individuals holding an individual security licence in the province of Alberta may not refer to themselves as:",
+		"correct": "Peace officers",
+		"options": [
+			"Security professionals",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"id": 3,
+		"question": " Professionalism is best demonstrated by:",
+		"correct": "Peace officers",
+		"options": [
+			"Your conduct and deportment",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"id": 4,
+		"question": "Your conduct and deportment __________________ utilized by licensed security professionals must be authorized by the Registrar",
+		"correct": "Batons",
+		"options": ["Batons", "Reporting forms", "Post orders", "Safety equipment"]
+	},
+	{
+		"id": 5,
+		"question": "The notes in your notebook will help you:",
+		"correct": "Prepare reports for your employer and others",
+		"options": [
+			"Prepare reports for your employer and others",
+			"Avoid court testimony",
+			"Obtain a security licence in another    classification",
+			"Communicate non-verbally "
+		]
+	},
+	{
+		"id": 6,
+		"question": "Writing profanity in your notebook is:",
+		"correct": "Acceptable when you are quoting verbatim",
+		"options": [
+			"Never appropriate",
+			"Acceptable when you are quoting verbatim",
+			"Inadmissible in court",
+			"Prohibited under the Security Services and Investigator’s Act"
+		]
+	},
+	{
+		"id": 7,
+		"question": "A statement is usually gathered as part of the _____________ process.",
+		"correct": "Interview",
+		"options": [
+			"Use of force",
+			"Interview",
+			"Verbal communication",
+			"Post-order"
+		]
+	},
+	{
+		"id": 8,
+		"question": "When you lose your security licence, you must file a written report to:",
+		"correct": "The Registrar of Security programs",
+		"options": [
+			"The police",
+			"The Registrar of Security programs",
+			"Your supervisor",
+			"The client where you lost your licence"
+		]
+	},
+	{
+		"id": 9,
+		"question": "A security professional in the province of Alberta must be, at minimum, _________years of age.",
+		"correct": "18",
+		"options": ["16", "18", "19", "21"]
+	},
+	{
+		"id": 10,
+		"question": "A licensed security professional may perform the following tasks:",
+		"correct": "All of the above",
+		"options": [
+			"Monitoring of alarm systems",
+			"Arrest of persons found committing a crime",
+			"Responding to emergencies",
+			"Conducting physical searches of purses,   backpacks, and other personal items",
+			"All of the above"
+		]
+	},
+	{
+		"id": 11,
+		"question": "Protecting information may include limiting access of persons to computer equipment and data.",
+		"correct": "True",
+		"options": ["True", "False"]
+	},
+	{
+		"id": 12,
+		"question": "An individual holding a security licence is licensed to work as a private detective when:",
+		"correct": "Never",
+		"options": [
+			"Directed by the licensee’s employer",
+			"The security professional is directed to  protect information",
+			"The work of another employee must be covered due to illness or vacation",
+			"Never"
+		]
+	},
+	{
+		"id": 13,
+		"question": "Uniform requirements for licensed security professionals are designated by:",
+		"correct": "The Security Services and Investigators Act",
+		"options": [
+			"The Employment Standards Code and  Regulation",
+			"The Security Operations Standards Council",
+			"The Security Services and Investigators Act",
+			"The Alberta Association of Chiefs of Police"
+		]
+	},
+	{
+		"id": 14,
+		"question": "The main duties of a security professional are to:",
+		"correct": "Observe, deter, report",
+		"options": [
+			"Observe, notify, arrest ",
+			"Observe, deter, report",
+			"Concentrate, notice, recall ",
+			"Contain, deter, arrest "
+		]
+	},
+	{
+		"id": 15,
+		"question": "When approached by media, you should: ",
+		"correct": "Observe, deter, report",
+		"options": [
+			"Tell them “no comment”",
+			"Ignore them",
+			"Only provide “yes” or “no” answers ",
+			"Refrain from participating in an interview"
+		]
+	},
+	{
+		"id": 17,
+		"question": "When approached by media, you should: ",
+		"correct": "Refrain from participating in an interview",
+		"options": [
+			"Tell them “no comment”",
+			"Ignore them",
+			"Only provide “yes” or “no” answers ",
+			"Refrain from participating in an interview"
+		]
+	},
+	{
+		"id": 18,
+		"question": "After you have called the police to assist with a hostile individual, you should: ",
+		"correct": "Continue to monitor the individual and situation",
+		"options": [
+			"Continue on with your patrol duties ",
+			"Continue to monitor the individual and situation",
+			"Tell the individual to leave before the police arrive",
+			"Ask the individual to provide you with a statement"
+		]
+	},
+	{
+		"id": 19,
+		"question": "Which of these is not appropriate to be contained in a notebook? ",
+		"correct": "E-mail address of secretary",
+		"options": [
+			"Cell phone number of witness ",
+			"E-mail address of secretary ",
+			"Record of false alarm ",
+			"Complaints from members of the public"
+		]
+	},
+	{
+		"id": 20,
+		"question": "When you have finished a notebook, you should: ",
+		"correct": "Write the date of your last entry in the front  cover. ",
+		"options": [
+			"Shred it because it contains personal information ",
+			"Tear out the pages with personal information and turn the remainder over to your supervisor ",
+			"Write the date of your last entry in the front  cover. ",
+			"Give it to the client for review "
+		]
+	},
+	{
+		"id": 21,
+		"question": "It is okay to add details to a statement if you know the information and the witness does not. ",
+		"correct": "False",
+		"options": ["True ", "False"]
+	},
+	{
+		"id": 22,
+		"question": "If you leave blank lines in your notebook, you should:",
+		"correct": "Draw a single line through the blank and initial",
+		"options": [
+			"Shade in the blank area and initial",
+			"Put an x through the blank line(s)",
+			"Draw a single line through the blank and initial",
+			"Initial the blank and indicate date and time"
+		]
+	},
+	{
+		"id": 23,
+		"question": "professionals in Alberta are licensed under the: ",
+		"correct": "Security Services and Investigators Act",
+		"options": [
+			"Security Services and Investigators Act",
+			"Security Services and Investigators Regulation ",
+			"Personal Property Security Act ",
+			"Security Management Regulation "
+		]
+	},
+	{
+		"id": 24,
+		"question": "Persons with any criminal record are not permitted to apply for a security licence in the province of Alberta.",
+		"correct": "False",
+		"options": ["True ", "False "]
+	},
+	{
+		"id": 25,
+		"question": "The Registrar may refuse the renewal of an individual security licence if: ",
+		"correct": "The licensee fails to provide information as   required by the Act, regulations, or the Registrar",
+		"options": [
+			"The licensee has not worked a minimum of 20 hours/week as a security professional ",
+			"The licensee fails to provide information as   required by the Act, regulations, or the Registrar",
+			"The licensee fails to complete basic first aid training ",
+			" The licensee is suspected of a criminal offence "
+		]
+	},
+	{
+		"id": 26,
+		"question": "  Public complaints against licensees are submitted in writing to:",
+		"correct": "The owner of the business employing the subject of the complaint",
+		"options": [
+			"The local police department ",
+			" The Registrar of security licensees ",
+			" The owner of the business employing the subject of the complaint ",
+			" The individual against whom the complaint is being filed "
+		]
+	},
+	{
+		"id": 27,
+		"question": "With consent of both parties, an employer may attempt to resolve an issue between a security professional and a complainant.",
+		"correct": "True",
+		"options": ["True ", "False "]
+	},
+	{
+		"id": 28,
+		"question": "When a witness tells you they think they know who committed a crime, you should: ",
+		"correct": "Make note of the name to pass along to the police",
+		"options": [
+			" Make note of the name to pass along to the police ",
+			" Find the named person and arrest him or her ",
+			"Ask the witness to write the suspects name and number in your notebook ",
+			" Let the witness go since you know who the guilty party is "
+		]
+	},
+	{
+		"id": 29,
+		"question": "What information is not required in your daily, opening notebook entry? ",
+		"correct": "Expected visitors to the premises",
+		"options": [
+			"Weather ",
+			"Name of partner ",
+			"Special events ",
+			"Expected visitors to the premises "
+		]
+	},
+	{
+		"id": 30,
+		"question": "On the 24-hour clock you would write 5:30 PM as: ",
+		"correct": "1730",
+		"options": ["0530 ", "05:30 ", "1330 ", "1730 "]
+	},
+	{
+		"id": 31,
+		"question": "A well-written report is prepared in:  ",
+		"correct": "Past tense",
+		"options": [
+			"a. 	Future tense",
+			"b.	Present tense ",
+			"c.	Past tense ",
+			"d.	Third person "
+		]
+	},
+	{
+		"id": 32,
+		"question": "A security professional in the province of Alberta is eligible to begin work before receiving their licence, provided they have completed all application documents and requirements. ",
+		"correct": "False",
+		"options": ["a.	True", "b.	False "]
+	},
+	{
+		"id": 33,
+		"question": "A public complaint against an individual security licence holder must be filed within ____ days of the alleged incident. ",
+		"correct": "90",
+		"options": [
+			"a.	30 ",
+			"b.	45", 
+			"c.	60" 
+			"d.	90" 
+			]
+	},
+	{
+		"id": 34,
+		"question": "A security professional must notify the Registrar when the following occurs:",
+		"correct": "Both a and c",
+		"options": [
+		" a. 	Change of telephone number ",
+"b.	Change of employer ",
+"c.	Change of address ",
+"d.	Renewal of driver licence ",
+"e.	Both a and c "
+
+			]
+	},
+	{
+		"id": 35,
+		"question": "deportment refer to",
+		"correct": "A professional appearance and attitude",
+		"options": [
+			"a.	The format and neatness of a written report", 
+			"b.	The classification of a security licensee in the province of Alberta ",
+			"c.	A process for altering post orders after a shift has started ",
+			"d.	A professional appearance and attitude "
+			
+
+			]
+	},
+	{
+		"id": 36,
+		"question": "An individual  security licence may be transferred",
+		"correct": "Never",
+		"options": [
+			
+"a. Upon leaving a position ",
+"b.	Never ",
+"c.	When a temporary assignment is required in the case of illness or medical leave ",
+"d.	When the owner of a security services company gives written permission to do so "
+]
+	},
+	{
+		"id": 37,
+		"question": "Which legislation defines the hours of work for a security professional?",
+		"correct": "Employment Standards Code and Regulation",
+		"options": [
+			"a. 	Criminal Code of Canada ",
+		   "b.	Security Services and Investigators Regulation  (Ministerial)" ,
+		   "c.	Security Services and Investigators Act ",
+		   "d.	Employment Standards Code and Regulation "
+		   
+]
+	},
+	{
+		"id": 38,
+		"question": "You should not write your ____________ in your notebook. ",
+		"correct": "Opinion",
+		"options": [
+			"a. 	Shift start and end times", 
+			"b.	Partners name ",
+			"c.	Opinion ",
+			"d.	Explanation of what occurred "
+			
+		   
+]
+	},
+	{
+		"id": 39,
+		"question": "The 24 hour clock",
+		"correct": "Helps differentiate between AM and PM",
+		"options": [
+			
+"a.	Is only used by military personnel ",
+"b.	Helps differentiate between AM and PM ",
+"c.	Should not be used for non-military clients", 
+"d.	Is not used for written reports "
+
+]
+	}
+	,
+	{
+		"id": 40,
+		"question": "What tone should you use in your report writing? ",
+		"correct": "Formal",
+		"options": [
+			
+"a.	Friendly ",
+"b.	Informal ",
+"c.	Formal ",
+"d.	Technical" 
+
+]
+	},
+	{
+		"id": 41,
+		"question": "Events should be written in _________ order. ",
+		"correct": "Chronological",
+		"options": [
+			"a.	First" ,
+"b.	Logical ",
+"c.	Chronological ",
+"d.	Remembered "
+
+
+]
+	}
+	,
+	{
+		"id": 42,
+		"question": "Reports should contain information about who, what, _________, when, why, and how. ",
+		"correct": "Where",
+		"options": [
+			"a.	Warnings ",
+			"b.	Weather ",
+			"c.	Wait-time" ,
+			"d.	Where "
+			
+]
+	}
+	,
+	{
+		"id": 43,
+		"question": "A loud voice is most appropriate for showing your authority as a security professional. ",
+		"correct": "False",
+		"options": [
+		
+"a.	True ",
+"b.	False "
+
+			
+]
+	},
+	{
+		"id": 44,
+		"question": "Which of the following is not part of your nonverbal communication? ",
+		"correct": "Text messages",
+		"options": [
+			"a.	Uniform", 
+			"b.	Posture ",
+			"c.	Text messages ",
+			"d.	Facial expressions" 
+			
+]
+	},
+	{
+		"id": 45,
+		"question": "An active listener:  ",
+		"correct": "Makes eye contact with the speaker",
+		"options": [
+			
+"a.	Makes eye contact with the speaker", 
+"b.	Notices ongoing distractions while listening ",
+"c.	Interrupts to clarify information ",
+"d.	Does not respond while the speaker is talking" 
+
+			
+]
+	}
+	,
+	{
+		"id": 46,
+		"question": "You should summarize a conversation with an individual: ",
+		"correct": "At the end of a conversation, to clarify expectations",
+		"options": [
+			"a. At the start of the conversation ",
+			"b.	When there are multiple persons involved", 
+			"c.	At the end of a conversation, to clarify expectations" ,
+			"d.	Each time you begin to speak "
+]
+	},
+	{
+		"id": 47,
+		"question": "Best practice for communication is to:",
+		"correct": "Ask one question at a time",
+		"options": [
+			"a. 	Ask all your questions at once", 
+		   "b.	Ask one question at a time ",
+		   "c.	Use only closed questions ",
+		   "d.	Use only open-ended questions" 
+		   
+]
+	},
+	{
+		"id": 48,
+		"question": "Raising your voice is an effective way to convince an agitated person to calm down.",
+		"correct": "False",
+		"options": [
+			"True", 
+		   "False"
+		   
+]
+	}
+	,
+	{
+		"id": 49,
+		"question": "You should _______________ before interviewing someone. ",
+		"correct": "Ask permission",
+		"options": [
+			
+"a. 	Wait until your shift ends ",
+"b.	Ask your supervisor for new post-orders ",
+"c.	Have the individual call a lawyer ",
+"d.	Ask permission "
+
+		   
+]
+	},
+	{
+		"id": 50,
+		"question": "Up to ______________ of communication is non-verbal. ",
+		"correct": "Ask permission",
+		"options": ["a.	50% ",
+		"b.	65% ",
+		"c.	85% ",
+		"d.	90% "
+			   
+]
+	}
+]

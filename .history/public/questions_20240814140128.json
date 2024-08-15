@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"question": "Security professionals are tasked with the protection of persons, property, and",
+		"options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+		"correct": "Paris"
+	},
+	{
+		"id": 2,
+		"question": "What is the currency of Japan?",
+		"options": ["Dollar", "Euro", "Yen", "Pound"],
+		"correct": "Yen"
+	}
+]

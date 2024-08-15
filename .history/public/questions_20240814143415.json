@@ -1,0 +1,175 @@
+[
+	{
+		"id": 1,
+		"question": "Security professionals are tasked with the protection of persons, property, and",
+		"correct": "Information",
+		"options": [
+			"Government buildings",
+			"Employee belongings",
+			"Information",
+			"Military locations"
+		]
+	},
+	{
+		"id": 2,
+		"question": "Individuals holding an individual security licence in the province of Alberta may not refer to themselves as:",
+		"correct": "Peace officers",
+		"options": [
+			"Security professionals",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"id": 3,
+		"question": " Professionalism is best demonstrated by:",
+		"correct": "Peace officers",
+		"options": [
+			"Your conduct and deportment",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"id": 4,
+		"question": "Your conduct and deportment __________________ utilized by licensed security professionals must be authorized by the Registrar",
+		"correct": "Batons",
+		"options": ["Batons", "Reporting forms", "Post orders", "Safety equipment"]
+	},
+	{
+		"id": 5,
+		"question": "The notes in your notebook will help you:",
+		"correct": "Prepare reports for your employer and others",
+		"options": [
+			"Prepare reports for your employer and others",
+			"Avoid court testimony",
+			"Obtain a security licence in another    classification",
+			"Communicate non-verbally "
+		]
+	},
+	{
+		"id": 6,
+		"question": "Writing profanity in your notebook is:",
+		"correct": "Acceptable when you are quoting verbatim",
+		"options": [
+			"Never appropriate",
+			"Acceptable when you are quoting verbatim",
+			"Inadmissible in court",
+			"Prohibited under the Security Services and Investigator’s Act"
+		]
+	},
+	{
+		"id": 7,
+		"question": "A statement is usually gathered as part of the _____________ process.",
+		"correct": "Interview",
+		"options": [
+			"Use of force",
+			"Interview",
+			"Verbal communication",
+			"Post-order"
+		]
+	},
+	{
+		"id": 8,
+		"question": "When you lose your security licence, you must file a written report to:",
+		"correct": "The Registrar of Security programs",
+		"options": [
+			"The police",
+			"The Registrar of Security programs",
+			"Your supervisor",
+			"The client where you lost your licence"
+		]
+	},
+	{
+		"id": 9,
+		"question": "A security professional in the province of Alberta must be, at minimum, _________years of age.",
+		"correct": "18",
+		"options": ["16", "18", "19", "21"]
+	},
+	{
+		"id": 10,
+		"question": "A licensed security professional may perform the following tasks:",
+		"correct": "All of the above",
+		"options": [
+			"Monitoring of alarm systems",
+			"Arrest of persons found committing a crime",
+			"Responding to emergencies",
+			"Conducting physical searches of purses,   backpacks, and other personal items",
+			"All of the above"
+		]
+	},
+	{
+		"id": 11,
+		"question": "Protecting information may include limiting access of persons to computer equipment and data.",
+		"correct": "True",
+		"options": ["True", "False"]
+	},
+	{
+		"id": 12,
+		"question": "An individual holding a security licence is licensed to work as a private detective when:",
+		"correct": "Never",
+		"options": [
+			"Directed by the licensee’s employer",
+			"The security professional is directed to  protect information",
+			"The work of another employee must be covered due to illness or vacation",
+			"Never"
+		]
+	},
+	{
+		"id": 13,
+		"question": "Uniform requirements for licensed security professionals are designated by:",
+		"correct": "The Security Services and Investigators Act",
+		"options": [
+			"The Employment Standards Code and  Regulation",
+			"The Security Operations Standards Council",
+			"The Security Services and Investigators Act",
+			"The Alberta Association of Chiefs of Police"
+		]
+	},
+	{
+		"id": 14,
+		"question": "The main duties of a security professional are to:",
+		"correct": "Observe, deter, report",
+		"options": [
+			"Observe, notify, arrest ",
+			"Observe, deter, report",
+			"Concentrate, notice, recall ",
+			"Contain, deter, arrest "
+		]
+	},
+	{
+		"id": 15,
+		"question": "When approached by media, you should: ",
+		"correct": "Observe, deter, report",
+		"options": [
+			"a.	Tell them “no comment”",
+			"Ignore them",
+			"Only provide “yes” or “no” answers ",
+			"Refrain from participating in an interview"
+		]
+	},
+	{
+		"id": 15,
+		"question": "When approached by media, you should: ",
+		"correct": "Refrain from participating in an interview",
+		"options": [
+			"a.	Tell them “no comment”",
+			"Ignore them",
+			"Only provide “yes” or “no” answers ",
+			"Refrain from participating in an interview"
+		]
+	},
+	{
+		"id": 15,
+		"question": "After you have called the police to assist with a hostile individual, you should: ",
+		"correct": "Refrain from participating in an interview",
+		"options": [
+			"Continue on with your patrol duties ",
+			"Continue to monitor the individual and situation",
+			"Tell the individual to leave before the police arrive",
+			"Ask the individual to provide you with a statement"
+		]
+	}
+]

@@ -1,0 +1,101 @@
+[
+	{
+		"id": 1,
+		"question": "Security professionals are tasked with the protection of persons, property, and",
+		"correct": "Information",
+		"options": [
+			"Government buildings",
+			"Employee belongings",
+			"Information",
+			"Military locations"
+		]
+	},
+	{
+		"id": 2,
+		"question": "Individuals holding an individual security licence in the province of Alberta may not refer to themselves as: ",
+		"correct": "Peace officers",
+		"options": [
+			"Security professionals",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"id": 3,
+		"question": " Professionalism is best demonstrated by: ",
+		"correct": "Peace officers",
+		"options": [
+			"Your conduct and deportment",
+			"Loss prevention workers",
+			"Peace officers",
+			"Watchpersons"
+		]
+	},
+	{
+		"id": 4,
+		"question": "Your conduct and deportment __________________ utilized by licensed security professionals must be authorized by the Registrar",
+		"correct": "Batons",
+		"options": [
+			"Batons",
+			"Reporting forms ",
+			"Post orders ",
+			"Safety equipment "
+		]
+	},
+	{
+		"id": 5,
+		"question": "The notes in your notebook will help you: ",
+		"correct": "Prepare reports for your employer and others",
+		"options": [
+			"a.	Prepare reports for your employer and others ",
+			"b.	Avoid court testimony ",
+			"c.	Obtain a security licence in another    classification ",
+			"d.	Communicate non-verbally  "
+		]
+	},
+	{
+		"id": 6,
+		"question": "Writing profanity in your notebook is: ",
+		"correct": "Acceptable when you are quoting verbatim ",
+		"options": [
+			"Never appropriate",
+			"b.	Acceptable when you are quoting verbatim ",
+			"c.	Inadmissible in court ",
+			"d.	Prohibited under the Security Services and Investigator’s Act "
+		]
+	},
+	{
+		"id": 7,
+		"question": "A statement is usually gathered as part of the _____________ process. ",
+		"correct": "Interview",
+		"options": [
+			"Use of force",
+			"b.	Interview ",
+			"c.	Verbal communication",
+			"d.	Post-order "
+		]
+	},
+	{
+		"id": 8,
+		"question": "When you lose your security licence, you must file a written report to:",
+		"correct": "Interview",
+		"options": [
+			"a.	The police ",
+			"b.	The Registrar of Security programs",
+			"c.	Your supervisor ",
+			"d.	The client where you lost your licence"
+		]
+	},
+	{
+		"id": 8,
+		"question": "When you lose your security licence, you must file a written report to:",
+		"correct": "Interview",
+		"options": [
+			"a.	The police ",
+			"b.	The Registrar of Security programs",
+			"c.	Your supervisor ",
+			"d.	The client where you lost your licence"
+		]
+	}
+]
