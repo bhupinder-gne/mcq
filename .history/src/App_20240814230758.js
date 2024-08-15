@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Question from './questions';
-const questions = [
+const d = [
 	{
 		id: 1,
 		question:
@@ -582,10 +582,17 @@ const questions = [
 ];
 
 const App = () => {
+	const [questions, setQuestions] = useState([]);
 	const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
 	const [selectedOptions, setSelectedOptions] = useState({});
 	const [showResult, setShowResult] = useState(false);
 	const [score, setScore] = useState(0);
+
+	useEffect(() => {
+		fetch('/questions.json')
+			.then((response) => response.json())
+			.then((data) => setQuestions(data));
+	}, []);
 
 	const handleOptionChange = (option) => {
 		setSelectedOptions({

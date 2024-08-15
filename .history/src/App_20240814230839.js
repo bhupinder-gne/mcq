@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Question from './questions';
 const questions = [
 	{
@@ -582,10 +582,12 @@ const questions = [
 ];
 
 const App = () => {
+	const [questions, setQuestions] = useState(data);
 	const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
 	const [selectedOptions, setSelectedOptions] = useState({});
 	const [showResult, setShowResult] = useState(false);
 	const [score, setScore] = useState(0);
+
 
 	const handleOptionChange = (option) => {
 		setSelectedOptions({
