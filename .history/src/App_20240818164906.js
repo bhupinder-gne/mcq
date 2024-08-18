@@ -1003,7 +1003,7 @@ const App = () => {
 
 	return (
 		<div>
-			<p>Total Questions ({questions.length})</p>
+			
 			<Question
 				question={questions[currentQuestionIndex].question}
 				options={questions[currentQuestionIndex].options}
