@@ -929,32 +929,13 @@ const questions = [
 	},
 	{
 		id: 99,
-		question:
-			'Some alarm response protocols will require you to call the company owner or client before contacting emergency services. ',
-		correct: 'False',
-		options: ['True', 'False'],
-	},
-	{
-		id: 100,
-		question: 'The last step in responding to an off-site alarm is to:',
-		correct: 'Document events in your notebook',
+		question: 'Some alarm response protocols will require you to call the company owner or client before contacting emergency services. ',
+		correct: 'Until the judge dismisses you',
 		options: [
-			'Contact emergency services',
-			'Document events in your notebook',
-			'Call the owner for the alarm reset code',
-			'Preserve the scene for evidence collection',
-		],
-	},
-	{
-		id: 101,
-		question: 'When arresting an individual, you are required to:',
-		correct:
-			'Tell them what criminal act they are being arrested for committing',
-		options: [
-			'Tell them you have called the police',
-			'Advise them you are a licensed security professional',
-			'Tell them what criminal act they are being arrested for committing',
-			'Ensure a witness is present at the time of arrest',
+			
+a.	True 
+b.	False 
+
 		],
 	},
 ];

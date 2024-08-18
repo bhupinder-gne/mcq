@@ -945,18 +945,6 @@ const questions = [
 			'Preserve the scene for evidence collection',
 		],
 	},
-	{
-		id: 101,
-		question: 'When arresting an individual, you are required to:',
-		correct:
-			'Tell them what criminal act they are being arrested for committing',
-		options: [
-			'Tell them you have called the police',
-			'Advise them you are a licensed security professional',
-			'Tell them what criminal act they are being arrested for committing',
-			'Ensure a witness is present at the time of arrest',
-		],
-	},
 ];
 
 const App = () => {

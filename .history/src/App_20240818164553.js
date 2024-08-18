@@ -947,14 +947,18 @@ const questions = [
 	},
 	{
 		id: 101,
-		question: 'When arresting an individual, you are required to:',
-		correct:
-			'Tell them what criminal act they are being arrested for committing',
+		question: 'When arresting an individual, you are required to:
+ a. 	Tell them you have called the police 
+b.	Advise them you are a licensed security professional 
+c.	Tell them what criminal act they are being arrested for committing 
+d.	Ensure a witness is present at the time of arrest 
+',
+		correct: 'Document events in your notebook',
 		options: [
-			'Tell them you have called the police',
-			'Advise them you are a licensed security professional',
-			'Tell them what criminal act they are being arrested for committing',
-			'Ensure a witness is present at the time of arrest',
+			'Contact emergency services',
+			'Document events in your notebook',
+			'Call the owner for the alarm reset code',
+			'Preserve the scene for evidence collection',
 		],
 	},
 ];

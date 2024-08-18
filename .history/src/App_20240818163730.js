@@ -867,94 +867,19 @@ const questions = [
 		],
 	},
 	{
-		id: 91,
-		question: 'Public mischief is an example of a(n) _______________ offence. ',
-		correct: 'Hybrid (dual)',
-		options: ['Summary', 'Indictable', 'Hybrid (dual)'],
-	},
-	{
-		id: 92,
-		question: 'An individual who tampers with computer data is guilty of:  ',
-		correct: 'HMischief',
-		options: ['Fraud', 'Theft', 'Mischief', 'Trespassing'],
-	},
-	{
-		id: 93,
+		id: 90,
 		question:
-			'If you use more force than necessary to stop a criminal act, you can be held criminally responsible. ',
-		correct: 'True',
-		options: ['True', 'False'],
-	},
-	{
-		id: 94,
-		question: 'When you are responsible for monitoring an alarm, you should: ',
-		correct: 'Learn how the alarm system works when beginning your shift',
+			'Public mischief is an example of a(n) _______________ offence. 
+a.	Summary 
+b.	Indictable 
+c.	Hybrid (dual) 
+',
+		correct: 'As soon as possible after arrest',
 		options: [
-			'Write down the name of the alarm company',
-			'Find out the contact information for the client',
-			'Learn how the alarm system works when beginning your shift',
-			'Never leave the alarm control panel',
-		],
-	},
-	{
-		id: 95,
-		question: 'Respond to ___________ alarms. ',
-		correct: 'All',
-		options: ['Genuine', 'All', 'After-hours', 'Emergency'],
-	},
-	{
-		id: 96,
-		question:
-			'A security professional has more powers of arrest than a regular individual when the security professional is licensed and in uniform.',
-		correct: 'False',
-		options: ['True', 'False'],
-	},
-	{
-		id: 97,
-		question:
-			'Possession of housebreaking instruments is an example of a(n) ______________ offence.',
-		correct: 'Hybrid (dual)',
-		options: ['Summary', 'Indictable', 'Hybrid (dual)'],
-	},
-	{
-		id: 98,
-		question: 'In court, you must not leave the stand: ',
-		correct: 'Until the judge dismisses you',
-		options: [
-			'Until the lawyer is finished asking questions',
-			'If there are people in the court room',
-			'Before handing in your notebook',
-			'Until the judge dismisses you',
-		],
-	},
-	{
-		id: 99,
-		question:
-			'Some alarm response protocols will require you to call the company owner or client before contacting emergency services. ',
-		correct: 'False',
-		options: ['True', 'False'],
-	},
-	{
-		id: 100,
-		question: 'The last step in responding to an off-site alarm is to:',
-		correct: 'Document events in your notebook',
-		options: [
-			'Contact emergency services',
-			'Document events in your notebook',
-			'Call the owner for the alarm reset code',
-			'Preserve the scene for evidence collection',
-		],
-	},
-	{
-		id: 101,
-		question: 'When arresting an individual, you are required to:',
-		correct:
-			'Tell them what criminal act they are being arrested for committing',
-		options: [
-			'Tell them you have called the police',
-			'Advise them you are a licensed security professional',
-			'Tell them what criminal act they are being arrested for committing',
-			'Ensure a witness is present at the time of arrest',
+			'As soon as possible after arrest',
+			'After advising the owner of the property about the arrest',
+			'After the incident has been called in to the shift supervisor',
+			'Before advising the suspect he or she is entitled to a phone call',
 		],
 	},
 ];
