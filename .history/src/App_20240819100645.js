@@ -1451,9 +1451,7 @@ const App = () => {
 
 	return (
 		<div>
-			<p>
-				Total Questions ({currentQuestionIndex + 1}/{questions.length})
-			</p>
+			<p>Total Questions ({questions.length})</p>
 			<Question
 				question={questions[currentQuestionIndex].question}
 				options={questions[currentQuestionIndex].options}
