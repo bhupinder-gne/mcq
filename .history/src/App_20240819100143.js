@@ -960,450 +960,583 @@ const questions = [
 	{
 		id: 102,
 		question: 'at night is an example of a(n) _____________ offence.',
-		correct: 'Summary',
-		options: ['Summary', 'Indictable', 'Hybrid (dual) '],
+		correct:
+			'Summary',
+		options: [
+			 
+a.	"Summary", 
+b.	"Indictable",
+c.	"Hybrid (dual) ",
+
+		],
 	},
 	{
 		id: 103,
-		question:
-			'If you are not provided with instructions for responding to alarms, you should: ',
-		correct: 'Phone your supervisor for clarification and instructions',
+		question: 'If you are not provided with instructions for responding to alarms, you should: ',
+		correct:
+			"Phone your supervisor for clarification and instructions",
 		options: [
-			'Locate all alarm components and develop your own response plan',
-			'Do nothing; you are not responsible for monitoring alarms if they have not been explained',
-			'Contact the client for instructions',
-			'Phone your supervisor for clarification and instructions',
+			 
+
+			a. 	"Locate all alarm components and develop your own response plan", 
+			b.	"Do nothing; you are not responsible for monitoring alarms if they have not been explained",
+			c.	"Contact the client for instructions",
+			d.	"Phone your supervisor for clarification and instructions"
+			
+
 		],
 	},
 	{
 		id: 104,
-		question:
-			'When you encounter a trespasser on the premises, your first course of action should be to:',
-		correct: 'Ask the trespasser to leave',
+		question: 'When you encounter a trespasser on the premises, your first course of action should be to:',
+		correct:
+			"Ask the trespasser to leave",
 		options: [
-			'Ask the trespasser to leave',
-			'Advise your supervisor a trespasser is on the premises',
-			'Call for police assistance',
-			'Note the time and location in your notebook',
+			 
+
+			 
+a. 	"Ask the trespasser to leave",
+b.	"Advise your supervisor a trespasser is on the premises", 
+c.	"Call for police assistance", 
+d.	"Note the time and location in your notebook" 
+
+			
+
 		],
 	},
 	{
 		id: 105,
-		question:
-			'If you use more force than necessary to stop a criminal act, you can be held criminally responsible. ',
-		correct: 'True',
-		options: ['True', 'False'],
+		question: 'If you use more force than necessary to stop a criminal act, you can be held criminally responsible. ',
+		correct:
+			"True",
+		options: [a. "True", 
+			B . "False"
+			],
 	},
 	{
 		id: 106,
-		question:
-			'Recording the name of the police officer who assumes control of a crime scene is: ',
-		correct: 'Preserving the chain of evidence',
+		question: 'Recording the name of the police officer who assumes control of a crime scene is: ',
+		correct:
+			"Preserving the chain of evidence",
 		options: [
-			'Required for filling out Post-orders',
-			'Not required',
-			'Preserving the chain of evidence',
-			'Necessary for keeping the media informed',
-		],
+			a.	"Required for filling out Post-orders", 
+			b.	"Not required",
+			c.	"Preserving the chain of evidence",
+			d.	"Necessary for keeping the media informed" 
+			
+			],
 	},
 	{
 		id: 107,
-		question:
-			'You should advise the police about witnesses to the incident when: ',
-		correct: 'When the police arrive',
+		question: 'You should advise the police about witnesses to the incident when: ',
+		correct:
+			"When the police arrive",
 		options: [
-			'You believe the witness is lying',
-			'When the police arrive',
-			'When you have finished interviewing the witness',
-			'When the witness does not know the suspect',
-		],
+			
+a. 	"You believe the witness is lying", 
+b.	"When the police arrive" ,
+c.	"When you have finished interviewing the witness", 
+d.	"When the witness does not know the suspect"
+
+			],
 	},
 	{
 		id: 108,
-		question:
-			'You should determine what type of emergency equipment is available to you___________. ',
-		correct: 'Before an emergency ever happens',
+		question: 'You should determine what type of emergency equipment is available to you___________. ',
+		correct:
+			"Before an emergency ever happens",
 		options: [
-			'When an emergency occurs',
-			'When debriefing with emergency services personnel',
-			'Before an emergency ever happens',
-			'When the fire inspector comes on site',
-		],
+			a. 	"When an emergency occurs",
+			b.	"When debriefing with emergency services personnel",
+			c.	"Before an emergency ever happens",
+			d.	"When the fire inspector comes on site",
+			],
 	},
 	{
 		id: 109,
 		question: 'To use “as much force as necessary” means: ',
-		correct: 'Using enough force to stop the criminal act from continuing',
+		correct:
+			"Using enough force to stop the criminal act from continuing",
 		options: [
-			'Using enough force to ensure the suspect cannot run away',
-			'Restraining all suspects, even those who are cooperative',
-			'Using enough force to stop the criminal act from continuing',
-			'Using force until the suspect gives a confession',
-		],
+			
+a.	"Using enough force to ensure the suspect cannot run away", 
+b.	"Restraining all suspects, even those who are cooperative",
+c.	"Using enough force to stop the criminal act from continuing", 
+d.	"Using force until the suspect gives a confession"
+
+			],
 	},
 	{
 		id: 110,
 		question: 'In a use of force situation, you should consider the following:',
-		correct: 'All of the above',
+		correct:
+			"All of the above",
 		options: [
-			'Threat of safety to yourself and others',
-			'Urgency',
-			'Environment',
-			'All of the above',
-		],
+		 
+a. 	"Threat of safety to yourself and others", 
+b.	"Urgency",
+c.	"Environment", 
+d.	"All of the above" 
+
+			],
 	},
 	{
 		id: 111,
-		question:
-			'You should keep other security professionals away from a crime scene in order to protect evidence. ',
-		correct: 'True',
-		options: ['True', 'False'],
+		question: 'You should keep other security professionals away from a crime scene in order to protect evidence. ',
+		correct:
+			"True",
+		options: [a. "True", 
+			B . "False"],
 	},
 	{
 		id: 112,
-		question:
-			'During an evacuation, ensure you check for _______________, who may need assistance.',
-		correct: 'Persons with mobility difficulties',
-		options: [
-			'VIPs',
-			'Persons with mobility difficulties',
-			'People with pets',
-			'Individuals wearing high-heeled shoes',
-		],
+		question: 'During an evacuation, ensure you check for _______________, who may need assistance.',
+		correct:
+			"Persons with mobility difficulties",
+		options: [ 
+			a.	"VIPs",
+			b.	"Persons with mobility difficulties",
+			c.	"People with pets",
+			d.	"Individuals wearing high-heeled shoes" 
+			],
 	},
 	{
 		id: 113,
-		question:
-			'You are permitted to search an individual you have arrested if: ',
+		question: 'You are permitted to search an individual you have arrested if: ',
 		correct:
-			'You have reasonable grounds to believe the individual is carrying a weapon',
-		options: [
-			'You recognize the individual as the suspect in a previous criminal offence',
-			'The individual refuses to answer your questions',
-			'The police will take more than 30 minutes to arrive',
-			'You have reasonable grounds to believe the individual is carrying a weapon',
-		],
+			"You have reasonable grounds to believe the individual is carrying a weapon",
+		options: [ 
+			
+a.	"You recognize the individual as the suspect in a previous criminal offence", 
+b.	"The individual refuses to answer your questions", 
+c.	"The police will take more than 30 minutes to arrive", 
+d.	"You have reasonable grounds to believe the individual is carrying a weapon" 
+
+			],
 	},
 	{
 		id: 114,
 		question: 'When making a decision to use force, you should consider:',
-		correct: 'Your own preparedness',
-		options: [
-			'Your own preparedness',
-			'The number of witnesses present',
-			'How long you have been licensed as a security professional',
-			'If the suspect tells you he or she is going to call a lawyer',
-		],
+		correct:
+			"Your own preparedness",
+		options: [ 
+		
+ a. 	"Your own preparedness", 
+ b.	"The number of witnesses present", 
+ c.	"How long you have been licensed as a security professional", 
+ d.	"If the suspect tells you he or she is going to call a lawyer" 
+ 
+			],
 	},
 	{
 		id: 115,
-		question:
-			'Section 25 of the Criminal Code permits you to use as much force as is____________ to stop a criminal act.',
-		correct: 'Necessary',
-		options: ['Lawfully permitted', 'Non-hazardous', 'Necessary', 'Safe'],
+		question: 'Section 25 of the Criminal Code permits you to use as much force as is____________ to stop a criminal act.',
+		correct:
+			"Necessary",
+		options: [ 
+		 
+a.	"Lawfully permitted", 
+b.	"Non-hazardous", 
+c.	"Necessary", 
+d.	"Safe" 
+
+			],
 	},
 	{
 		id: 116,
 		question: 'The Bomb Threat checklist is used to:',
-		correct: 'Gather information from a threatening caller',
-		options: [
-			'Tell the police how to find your location',
-			'Gather information from a threatening caller',
-			'Define the process for evacuation',
-			'Check all areas of a building for suspicious items',
-		],
+		correct:
+			"Gather information from a threatening caller",
+		options: [ 
+	 
+a.	"Tell the police how to find your location", 
+b.	"Gather information from a threatening caller", 
+c.	"Define the process for evacuation", 
+d.	"Check all areas of a building for suspicious items"
+
+			],
 	},
 	{
 		id: 117,
 		question: 'A bomb threat should be consider genuine ',
-		correct: 'In all circumstances',
-		options: [
-			'When it is received via mail',
-			'When it occurs in the middle of a weekday',
-			'When there are many people present in the building',
-			'In all circumstances',
-		],
+		correct:
+			"In all circumstances",
+		options: [ 
+	 
+ a. "When it is received via mail",
+ b.	"When it occurs in the middle of a weekday", 
+ c.	"When there are many people present in the building", 
+ d.	"In all circumstances" 
+	 ],
 	},
 	{
 		id: 118,
 		question: 'When asked to evacuate a location, you should:',
-		correct: 'Assist persons in leaving the building in a calm, orderly manner',
-		options: [
-			'Call your supervisor first for permission',
-			'Ask the public to run as quickly as possible to the designated meeting place',
-			'Assist persons in leaving the building in a calm, orderly manner',
-			'Stay in the security office to greet emergency services personnel',
-		],
+		correct:
+			"Assist persons in leaving the building in a calm, orderly manner",
+		options: [ 
+	  
+a.	"Call your supervisor first for permission",
+b.	"Ask the public to run as quickly as possible to the designated meeting place",
+c.	"Assist persons in leaving the building in a calm, orderly manner",
+d.	"Stay in the security office to greet emergency services personnel" 
+
+	 ],
 	},
 	{
 		id: 119,
-		question:
-			'You must be able to _____________ information in order to use it in an investigation.',
-		correct: 'Recall',
-		options: ['Recall', 'Memorize', 'Document', 'Record'],
+		question: 'You must be able to _____________ information in order to use it in an investigation.',
+		correct:
+			"Recall",
+		options: [ 
+	   
+a.	"Recall",
+b.	"Memorize",
+c.	"Document",
+d.	"Record" 
+
+	 ],
 	},
 	{
 		id: 120,
 		question: 'The purpose of patrol is to:',
-		correct: 'Observe your surroundings for changes or unusual activit',
-		options: [
-			'Let everyone know you are in the building',
-			'Observe your surroundings for changes or unusual activity',
-			'Meet the requirement of your post orders',
-			'Find out the events taking place at the site',
-		],
+		correct:
+			"Observe your surroundings for changes or unusual activit",
+		options: [ 
+	    
+a.	"Let everyone know you are in the building", 
+b.	"Observe your surroundings for changes or unusual activity", 
+c.	"Meet the requirement of your post orders", 
+d.	"Find out the events taking place at the site" 
+
+	 ],
 	},
 	{
 		id: 121,
 		question: ' Your patrol route should: ',
-		correct: 'Allow you to cover all areas of a premises or site',
-		options: [
-			'Always stay the same',
-			'Change every time',
-			'Allow you to cover all areas of a premises or site',
-			'Get shorter as you near the end of your shift',
-		],
+		correct:
+			"Allow you to cover all areas of a premises or site",
+		options: [ 
+	    
+a.	"Always stay the same", 
+b.	"Change every time", 
+c.	"Allow you to cover all areas of a premises or site", 
+d.	"Get shorter as you near the end of your shift"
+
+	 ],
 	},
 	{
 		id: 122,
-		question:
-			' Controlling ___________ is a common duty for a security professional.',
-		correct: 'Access',
-		options: [
-			'Open and closing times',
-			'Temperature and humidity',
-			'Overtime',
-			'Access',
-		],
+		question: ' Controlling ___________ is a common duty for a security professional.',
+		correct:
+			"Access",
+		options: [ 
+	     
+a. 	"Open and closing times",
+b.	"Temperature and humidity",
+c.	"Overtime",
+d.	"Access" 
+
+	 ],
 	},
 	{
 		id: 123,
-		question:
-			'______________________ is not a suggested method for controlling a crowd.',
-		correct: 'Using force to remove individuals who are fighting',
-		options: [
-			'Removing the leader',
-			'Breaking the crowd into smaller groups',
-			'Using force to remove individuals who are fighting',
-			'Seeking assistance from a sympathetic leader',
-		],
+		question: '______________________ is not a suggested method for controlling a crowd.',
+		correct:
+			"Using force to remove individuals who are fighting",
+		options: [ 
+	      
+a. "Removing the leader",
+b.	"Breaking the crowd into smaller groups", 
+c.	"Using force to remove individuals who are fighting", 
+d.	"Seeking assistance from a sympathetic leader" 
+
+
+	 ],
 	},
 	{
 		id: 124,
 		question: '_____________ your patrol at the start of each shift.',
-		correct: 'Plan',
-		options: ['Call in', 'Document', 'Conduct', 'Plan'],
+		correct:
+			"Plan",
+		options: [ 
+	    
+a.	"Call in", 
+b.	"Document", 
+c.	"Conduct", 
+d.	"Plan"
+
+	 ],
 	},
 	{
 		id: 125,
-		question:
-			'When calling in a licence plate using the phonetic alphabet, “EZM” would be expressed as: ',
-		correct: 'Echo-Zulu-Mike',
-		options: [
-			'Earache–Zion-Malta',
-			'Echo-Zion-Mike',
-			'Elbow-Zulu-Malta',
-			'Echo-Zulu-Mike',
-		],
+		question: 'When calling in a licence plate using the phonetic alphabet, “EZM” would be expressed as: ',
+		correct:
+			"Echo-Zulu-Mike",
+		options: [ 
+			a. 	"Earache–Zion-Malta",
+			b.	"Echo-Zion-Mike",
+			c.	"Elbow-Zulu-Malta" ,
+			d.	"Echo-Zulu-Mike" 
+			
+	 ],
 	},
 	{
 		id: 126,
-		question:
-			'Be watchful for ________, or things that look _____________ than before. ',
-		correct: 'Change, different',
-		options: [
-			'People, bigger',
-			'Time, different',
-			'Change, different',
-			'Association, more disturbed',
-		],
+		question: 'Be watchful for ________, or things that look _____________ than before. ',
+		correct:
+			"Change, different",
+		options: [ 
+			a. 	"People, bigger", 
+b.	"Time, different",
+c.	"Change, different",
+d.	"Association, more disturbed" 
+
+	 ],
 	},
 	{
 		id: 127,
-		question:
-			'You may recall information by concentrating, associating, and _____________________.',
-		correct: 'Repeating',
-		options: ['Writing', 'Visualizing', 'Repeating', 'Memorizing'],
+		question: 'You may recall information by concentrating, associating, and _____________________.',
+		correct:
+			"Repeating",
+		options: [ 
+			
+ a. 	"Writing",
+ b.	"Visualizing",
+ c.	"Repeating",
+ d.	"Memorizing" 
+ 
+	 ],
 	},
 	{
 		id: 128,
-		question:
-			'Which of the following is not an appropriate activity while on patrol? ',
-		correct: 'Arranging a lunch date with a contractor',
-		options: [
-			'Checking in with the dispatcher at regular intervals',
-			'Asking the receptionist how things are going',
-			'Arranging a lunch date with a contractor',
-			'Speaking to another security professional about site hazards',
-		],
+		question: 'Which of the following is not an appropriate activity while on patrol? ',
+		correct:
+			"Arranging a lunch date with a contractor",
+		options: [ 
+		
+a. 	"Checking in with the dispatcher at regular intervals", 
+b.	"Asking the receptionist how things are going", 
+c.	"Arranging a lunch date with a contractor", 
+d.	"Speaking to another security professional about site hazards" 
+
+	 ],
 	},
 	{
 		id: 129,
-		question:
-			'Portable sound systems (e.g., MP3 players) may be used after hours or at night while on duty.',
-		correct: 'False',
-		options: ['True', 'False'],
+		question: 'Portable sound systems (e.g., MP3 players) may be used after hours or at night while on duty.',
+		correct:
+			"False",
+		options: [ 
+		 
+a.	"True",
+b.	"False" 
+
+
+	 ],
 	},
 	{
 		id: 130,
 		question: 'Door and window locks should be checked:',
-		correct: 'Each time you pass',
+		correct:
+			"Each time you pass",
 		options: [
-			'Once per shift',
-			'At the beginning and end of each shift',
-			'Hourly',
-			'Each time you pass',
-		],
+			a. 	"Once per shift",
+		   b.	"At the beginning and end of each shift",
+		   c.	"Hourly",
+		   d.	"Each time you pass" 
+		   ],
 	},
 	{
 		id: 131,
 		question: '. You may permit access to an unauthorized individual: ',
-		correct: 'Under no circumstances',
+		correct:
+			"Under no circumstances",
 		options: [
-			'When it is late at night and it is not safe for the person to remain outside',
-			'When they are accompanied by an authorized person',
-			'Under no circumstances',
-			'When the individual tells you an emergency situation is taking place',
-		],
+			
+a.	"When it is late at night and it is not safe for the person to remain outside", 
+b.	"When they are accompanied by an authorized person",
+c.	"Under no circumstances",
+d.	"When the individual tells you an emergency situation is taking place"
+
+		   ],
 	},
 	{
 		id: 132,
 		question: 'You should not leave at the end of your shift until:  ',
-		correct: 'Your replacement arrives',
+		correct:
+			"Your replacement arrives",
 		options: [
-			'You check all doors and windows to ensure they are locked',
-			'Your replacement arrives',
-			'The dispatcher tells you it is okay to leave',
-			'You have finished writing your post-order',
-		],
+			a.	"You check all doors and windows to ensure they are locked" ,
+			b.	"Your replacement arrives" ,
+			c.	"The dispatcher tells you it is okay to leave" ,
+			d.	"You have finished writing your post-order"
+			],
 	},
 	{
 		id: 133,
 		question: 'The phonetic alphabet is:',
-		correct: 'Used frequently for clarity in communication',
+		correct:
+			"Used frequently for clarity in communication",
 		options: [
-			'Used by hearing impaired persons',
-			'The letters on a telephone keypad',
-			'Comprised of sounds only',
-			'Used frequently for clarity in communication',
-		],
+			 
+a.	"Used by hearing impaired persons", 
+b.	"The letters on a telephone keypad",
+c.	"Comprised of sounds only",
+d.	"Used frequently for clarity in communication" 
+
+			],
 	},
 	{
 		id: 134,
-		question:
-			'You are authorized to confiscate liquor at the entrance to a sporting venue',
-		correct: 'False',
-		options: ['True', 'False'],
+		question: 'You are authorized to confiscate liquor at the entrance to a sporting venue',
+		correct:
+			"False",
+		options: [
+			 
+			a.	"True",
+			b.	"False"  
+
+			],
 	},
 	{
 		id: 135,
-		question:
-			'_________________ is the first step in the observation process. ',
-		correct: 'Noticing',
-		options: ['Notifying', 'Associating', 'Recalling', 'Noticing'],
+		question: '_________________ is the first step in the observation process. ',
+		correct:
+			"Noticing",
+		options: [
+			 
+a.	"Notifying", 
+b.	"Associating" ,
+c.	"Recalling" ,
+d.	"Noticing" 
+
+			],
 	},
 	{
 		id: 136,
-		question:
-			'____________________ information is thinking of how it relates to something you already know.',
-		correct: 'Associating',
-		options: ['Remembering', 'Classifying', 'Associating', 'Organizing'],
+		question: '____________________ information is thinking of how it relates to something you already know.',
+		correct:
+			"Associating",
+		options: [
+			  
+a.	"Remembering" ,
+b.	"Classifying" ,
+c.	"Associating" ,
+d.	"Organizing" 
+
+			],
 	},
 	{
 		id: 137,
 		question: 'Foot patrols have the benefit of:',
-		correct: 'Affording access to more areas within a site',
+		correct:
+			"Affording access to more areas within a site",
 		options: [
-			'Being able to cover a large area in a short amount of time',
-			'Affording access to more areas within a site',
-			'Quick response in emergencies',
-			'Getting gear and equipment to specific areas on the premises',
-		],
+			   
+a.	"Being able to cover a large area in a short amount of time", 
+b.	"Affording access to more areas within a site", 
+c.	"Quick response in emergencies",
+d.	"Getting gear and equipment to specific areas on the premises" 
+
+			],
 	},
 	{
 		id: 138,
-		question:
-			'_________, _______________, and  ________________ are access control points.',
+		question: '_________, _______________, and  ________________ are access control points.',
 		correct:
-			'Property perimeter, Building perimeter and   entrance, Inside of building',
-		options: [
-			'Property perimeter, Building perimeter and   entrance, Inside of building',
-			'Property perimeter, Building perimeter and entrance, Stairwells',
-			'Main driveway, Building perimeter and entrance, Inside of Building',
-			'Property perimeter, Offices, Public areas',
-		],
+			"Property perimeter, Building perimeter and   entrance, Inside of building",
+		options: [ 
+			a.	"Property perimeter, Building perimeter and   entrance, Inside of building", 
+			b.	"Property perimeter, Building perimeter and entrance, Stairwells", 
+			c.	"Main driveway, Building perimeter and entrance, Inside of Building", 
+			d.	"Property perimeter, Offices, Public areas" 
+			],
 	},
 	{
 		id: 139,
 		question: 'Security professionals generally do not control crowds at: ',
-		correct: 'Bars',
-		options: ['Retail stores', 'Demonstrations', 'Labour disputes', 'Bars'],
+		correct:
+			"Bars",
+		options: [ 
+			
+a. 	"Retail stores", 
+b.	"Demonstrations", 
+c.	"Labour disputes", 
+d.	"Bars" 
+
+			],
 	},
 	{
 		id: 140,
 		question: 'When directing traffic, you should first be mindful of: ',
-		correct: 'Your personal safety',
-		options: [
-			'Your personal safety',
-			'Equipment working overhead',
-			'The distance to the nearest main road',
-			'The weather',
-		],
+		correct:
+			"Your personal safety",
+		options: [ 
+			
+a. 	"Your personal safety", 
+b.	"Equipment working overhead", 
+c.	"The distance to the nearest main road",
+d.	"The weather"
+
+			],
 	},
 	{
 		id: 141,
-		question:
-			'Develop a habit of communicating, or _______________ your supervisor or coworkers at the start of each shift.',
-		correct: 'Checking in with',
-		options: [
-			'E-mailing',
-			'Checking in with',
-			'Writing a report for',
-			'Exercising with',
-		],
+		question: 'Develop a habit of communicating, or _______________ your supervisor or coworkers at the start of each shift.',
+		correct:
+			"Checking in with",
+		options: [ 
+		 
+a.	"E-mailing", 
+b.	"Checking in with", 
+c.	"Writing a report for", 
+d.	"Exercising with" 
+
+			],
 	},
 	{
 		id: 142,
-		question:
-			'Do not leave the ___________ tasks until the end of your shift when you may be most sleepy.',
-		correct: 'Tedious',
-		options: ['Tedious', 'Important', 'Difficult', 'Alarm monitoring'],
+		question: 'Do not leave the ___________ tasks until the end of your shift when you may be most sleepy.',
+		correct:
+			"Tedious",
+		options: [ 
+		  
+a.	"Tedious",
+b.	"Important", 
+c.	"Difficult",
+d.	"Alarm monitoring" 
+
+
+			],
 	},
 	{
 		id: 143,
-		question:
-			'_____________________ is using information to form a conclusion.',
-		correct: 'Interpreting',
-		options: [
-			'Documenting',
-			'Writing post-orders',
-			'Observing',
-			'Interpreting',
-		],
+		question: '_____________________ is using information to form a conclusion.',
+		correct:
+			"Interpreting",
+		options: [ 
+		   
+a.	"Documenting" ,
+b.	"Writing post-orders" ,
+c.	"Observing" ,
+d.	"Interpreting" 
+
+			],
 	},
 	{
 		id: 144,
 		question: 'While on patrol, you should walk: ',
-		correct: 'Confidently',
-		options: ['Confidently', 'Quickly', 'Slowly', 'On tiptoe'],
-	},
-	{
-		id: 145,
-		question:
-			'Contact ______________ if you find evidence of criminal activity.',
-		correct: 'The police',
-		options: [
-			'Your partner',
-			'Your supervisor',
-			'The police',
-			'The property owner',
-		],
-	},
-	{
-		id: 146,
-		question: 'An _______________ crowd generally has no formal leader. ',
-		correct: 'Unorganized',
-		options: ['Angry', 'Unorganized', 'Excited', 'Activist'],
+		correct:
+			"Interpreting",
+		options: [ 
+		   
+a. 	"Confidently" 
+b.	"Quickly" 
+c.	"Slowly" 
+d.	"On tiptoe" 
+
+			],
 	},
 ];
 
